@@ -1,5 +1,8 @@
 # nbody-sandbox
 
+<img width="2560" height="1369" alt="image" src="https://github.com/user-attachments/assets/abb6bfb3-cb2f-4772-aa01-29f0bc27eb35" />
+
+
 An experimental real-time 2D N-body gravitational physics simulator written in Rust, built with [macroquad](https://github.com/not-fl3/macroquad) and [egui](https://github.com/emilk/egui).
 
 Simulates celestial mechanics with numerical stability, high frame rates (150-200+ FPS on 700+ bodies), interactive camera controls, and configurable telemetry HUD.
