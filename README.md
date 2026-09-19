@@ -1,4 +1,4 @@
-# astro-phys-sim
+# nbody-sandbox
 
 An experimental real-time 2D N-body gravitational physics simulator written in Rust, built with [macroquad](https://github.com/not-fl3/macroquad) and [egui](https://github.com/emilk/egui).
 
